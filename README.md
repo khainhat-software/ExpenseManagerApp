@@ -1,1 +1,1 @@
-# MoneyManagerApp
+# ExpenseManagerApp
