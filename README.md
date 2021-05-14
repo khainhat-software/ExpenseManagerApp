@@ -1,4 +1,4 @@
-# ExpenseManagerApp
+# Expense Manage App
 Expense management app for SE114.L22 project
 
 Phan Tiến Lào - 
