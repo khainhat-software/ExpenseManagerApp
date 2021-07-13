@@ -6,7 +6,7 @@
 Mô tả App
 ------------
 
-| Ứng dụng Expense Manager giúp người dùng quản lý chi tiêu một cách **thông minh**, cực kì tiện lợi và **tiết kiệm thời gian** nhằm giải quyết bài toán chi tiêu của mỗi cá nhân | cũng như giúp tiết kiệm được khoản tiền cho những chi phí phát sinh và các nhu cầu của bản thân trong tương lai.
+Ứng dụng Expense Manager giúp người dùng quản lý chi tiêu một cách **thông minh**, cực kì tiện lợi và **tiết kiệm thời gian** nhằm giải quyết bài toán chi tiêu của mỗi cá nhân cũng như giúp tiết kiệm được khoản tiền cho những chi phí phát sinh và các nhu cầu của bản thân trong tương lai.
 
 Chức năng 
 ------------
@@ -36,4 +36,4 @@ Sinh viên thực hiện
 - Bùi Khắc Lam - 19521735
 - Dương Khải Nhật - 19521949
 
-Expense Management App for SE114.L22.PMCL project
+> Expense Management App for SE114.L22.PMCL project
